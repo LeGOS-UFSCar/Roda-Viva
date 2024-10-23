@@ -3,7 +3,7 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/LeGOS-UFSCar/Roda-Viva/blob/main/README.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LeGOS-UFSCar/Roda-Viva/blob/main/README.en.md)
 
-## Sobre
+## About
 
 The **corpus Roda Viva** consists of transcriptions of interviews conducted on the Roda Viva program from TV Cultura.
 
