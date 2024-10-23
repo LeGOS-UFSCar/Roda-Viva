@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "titulo": "Fidel Castro",
+    "url": "https://rodaviva.fapesp.br/materia/1/entrevistados/fidel_castro_1990.htm",
+    "arquivo": "fidel_castro_1990.csv",
+    "data": "19/03/1990",
+    "descricao": "Mito para os movimentos de esquerda da América Latina, o presidente cubano falou sobre o futuro diante dos reflexos da perestroika",
+    "categoria": [
+        "política"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=znY9e1AFCvc"
+}
