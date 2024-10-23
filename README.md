@@ -1,5 +1,8 @@
 # Corpus Roda Viva
 
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/LeGOS-UFSCar/Roda-Viva/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/LeGOS-UFSCar/Roda-Viva/blob/main/README.en.md)
+
 ## Sobre
 
 O **corpus Roda Viva** é composto por transcrições de entrevistas realizadas no programa Roda Viva, da TV Cultura.
